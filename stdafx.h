@@ -54,7 +54,7 @@ using namespace Office;
 using namespace Outlook;
 
 // This addin type library
-#import "KeepOutlookRunning.tlb"\
+#import "Release\KeepOutlookRunning.tlb"\
 	auto_rename auto_search raw_interfaces_only rename_namespace("KeepOutlookRunningAddin")
 using namespace KeepOutlookRunningAddin;
 
